@@ -9,7 +9,7 @@
   "preview": "vite preview",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
-}
+},
   "repository": {
     "type": "git",
     "url": "https://t:eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJvcmNoaWRzIiwic3ViIjoiQHBpZXJyZS9zdG9yYWdlIiwicmVwbyI6IjBlYTYzZThiLWI0NDctNGJlNi04MmI2LTc1NDkyZDk1NTQxMSIsInNjb3BlcyI6WyJnaXQ6cmVhZCIsImdpdDp3cml0ZSJdLCJpYXQiOjE3NzM0ODg0MjksImV4cCI6MTgwNDU5MjQyOX0.d64Uq_nr5Uuu5-lCcDRDEreYaQLD8vXNxvHl9AHmb0_ZhOSKbCbiltc2Csw9tHL8KAvXLKTxzAH4DKRQFOkKSw@orchids.code.storage/0ea63e8b-b447-4be6-82b6-75492d955411.git"
