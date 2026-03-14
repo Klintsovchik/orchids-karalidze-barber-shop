@@ -23,8 +23,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.1",
-    "vite": "^8.0.0",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "vite": "^8.0.0"
   },
   "homepage": "https://klintsovchik.github.io/orchids-karalidze-barber-shop/"
 }
