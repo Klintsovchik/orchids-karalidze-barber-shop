@@ -104,7 +104,7 @@ const Barber = () => {
           <div style={{
             width: '100%',
             paddingTop: '125%',
-            background: `url('https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=800&q=90&fit=crop') center top/cover`,
+            background: `url('/images/crop.jpg') center top/cover`,
             borderRadius: '2px',
             position: 'relative',
           }} />
